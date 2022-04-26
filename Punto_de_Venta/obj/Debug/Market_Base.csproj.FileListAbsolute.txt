@@ -1,0 +1,265 @@
+\\DARK-EVIL\Users\anoni\Punto_de_Venta\Punto_de_Venta\bin\Debug\Punto_de_Venta.exe.config
+\\DARK-EVIL\Users\anoni\Punto_de_Venta\Punto_de_Venta\bin\Debug\Punto_de_Venta.exe
+\\DARK-EVIL\Users\anoni\Punto_de_Venta\Punto_de_Venta\bin\Debug\Punto_de_Venta.pdb
+\\DARK-EVIL\Users\anoni\Punto_de_Venta\Punto_de_Venta\obj\Debug\Punto_de_Venta.acerca_de.resources
+\\DARK-EVIL\Users\anoni\Punto_de_Venta\Punto_de_Venta\obj\Debug\Punto_de_Venta.clientes.resources
+\\DARK-EVIL\Users\anoni\Punto_de_Venta\Punto_de_Venta\obj\Debug\Punto_de_Venta.compras.resources
+\\DARK-EVIL\Users\anoni\Punto_de_Venta\Punto_de_Venta\obj\Debug\Punto_de_Venta.login.resources
+\\DARK-EVIL\Users\anoni\Punto_de_Venta\Punto_de_Venta\obj\Debug\Punto_de_Venta.productos.resources
+\\DARK-EVIL\Users\anoni\Punto_de_Venta\Punto_de_Venta\obj\Debug\Punto_de_Venta.splash.resources
+\\DARK-EVIL\Users\anoni\Punto_de_Venta\Punto_de_Venta\obj\Debug\Punto_de_Venta.ventas.resources
+\\DARK-EVIL\Users\anoni\Punto_de_Venta\Punto_de_Venta\obj\Debug\Punto_de_Venta.Properties.Resources.resources
+\\DARK-EVIL\Users\anoni\Punto_de_Venta\Punto_de_Venta\obj\Debug\Market_Base.csproj.GenerateResource.Cache
+\\DARK-EVIL\Users\anoni\Punto_de_Venta\Punto_de_Venta\obj\Debug\Punto_de_Venta.exe
+\\DARK-EVIL\Users\anoni\Punto_de_Venta\Punto_de_Venta\obj\Debug\Punto_de_Venta.pdb
+\\DARK-EVIL\Users\anoni\Punto_de_Venta\Punto_de_Venta\obj\Debug\Punto_de_Venta.Menu.resources
+\\DARK-EVIL\Users\anoni\Punto_de_Venta\Punto_de_Venta\obj\Debug\Market_Base.csprojAssemblyReference.cache
+\\DARK-EVIL\Users\anoni\Punto_de_Venta\Punto_de_Venta\obj\Debug\Punto_de_Venta.buscar_productos.resources
+\\DARK-EVIL\Users\anoni\Punto_de_Venta\Punto_de_Venta\bin\Debug\MySql.Data.dll
+\\DARK-EVIL\Users\anoni\Punto_de_Venta\Punto_de_Venta\obj\Debug\Market_Base.csproj.CopyComplete
+\\DARK-EVIL\Users\anoni\Punto_de_Venta\Punto_de_Venta\obj\Debug\Interop.MediaPlayer.dll
+\\DARK-EVIL\Users\anoni\Punto_de_Venta\Punto_de_Venta\obj\Debug\Interop.WMPDXMLib.dll
+\\DARK-EVIL\Users\anoni\Punto_de_Venta\Punto_de_Venta\obj\Debug\Interop.WMPLib.dll
+\\DARK-EVIL\Users\anoni\Punto_de_Venta\Punto_de_Venta\obj\Debug\Market_Base.csproj.ResolveComReference.cache
+\\DARK-EVIL\Users\anoni\Punto_de_Venta - copia\Punto_de_Venta\bin\Debug\Punto_de_Venta.exe.config
+\\DARK-EVIL\Users\anoni\Punto_de_Venta - copia\Punto_de_Venta\obj\Debug\Interop.MediaPlayer.dll
+\\DARK-EVIL\Users\anoni\Punto_de_Venta - copia\Punto_de_Venta\obj\Debug\Interop.WMPDXMLib.dll
+\\DARK-EVIL\Users\anoni\Punto_de_Venta - copia\Punto_de_Venta\obj\Debug\Interop.WMPLib.dll
+\\DARK-EVIL\Users\anoni\Punto_de_Venta - copia\Punto_de_Venta\obj\Debug\Market_Base.csproj.ResolveComReference.cache
+\\DARK-EVIL\Users\anoni\Punto_de_Venta - copia\Punto_de_Venta\obj\Debug\Punto_de_Venta.exe
+\\DARK-EVIL\Users\anoni\Punto_de_Venta - copia\Punto_de_Venta\obj\Debug\Punto_de_Venta.pdb
+\\DARK-EVIL\Users\anoni\Punto_de_Venta - copia\Punto_de_Venta\obj\Debug\Market_Base.csprojResolveAssemblyReference.cache
+\\DARK-EVIL\Users\anoni\Punto_de_Venta - copia\Punto_de_Venta\obj\Debug\Punto_de_Venta.buscar_productos.resources
+\\DARK-EVIL\Users\anoni\Punto_de_Venta - copia\Punto_de_Venta\obj\Debug\Punto_de_Venta.Menu.resources
+\\DARK-EVIL\Users\anoni\Punto_de_Venta - copia\Punto_de_Venta\obj\Debug\Punto_de_Venta.acerca_de.resources
+\\DARK-EVIL\Users\anoni\Punto_de_Venta - copia\Punto_de_Venta\obj\Debug\Punto_de_Venta.clientes.resources
+\\DARK-EVIL\Users\anoni\Punto_de_Venta - copia\Punto_de_Venta\obj\Debug\Punto_de_Venta.compras.resources
+\\DARK-EVIL\Users\anoni\Punto_de_Venta - copia\Punto_de_Venta\obj\Debug\Punto_de_Venta.login.resources
+\\DARK-EVIL\Users\anoni\Punto_de_Venta - copia\Punto_de_Venta\obj\Debug\Punto_de_Venta.productos.resources
+\\DARK-EVIL\Users\anoni\Punto_de_Venta - copia\Punto_de_Venta\obj\Debug\Punto_de_Venta.splash.resources
+\\DARK-EVIL\Users\anoni\Punto_de_Venta - copia\Punto_de_Venta\obj\Debug\Punto_de_Venta.ventas.resources
+\\DARK-EVIL\Users\anoni\Punto_de_Venta - copia\Punto_de_Venta\obj\Debug\Punto_de_Venta.Properties.Resources.resources
+\\DARK-EVIL\Users\anoni\Punto_de_Venta - copia\Punto_de_Venta\obj\Debug\Market_Base.csproj.GenerateResource.Cache
+\\DARK-EVIL\Users\anoni\Punto_de_Venta - copia\Punto_de_Venta\bin\Debug\Punto_de_Venta.exe
+\\DARK-EVIL\Users\anoni\Punto_de_Venta - copia\Punto_de_Venta\bin\Debug\Punto_de_Venta.pdb
+C:\Users\anoni\Punto_de_Venta - copia\Punto_de_Venta\bin\Debug\Punto_de_Venta.exe.config
+C:\Users\anoni\Punto_de_Venta - copia\Punto_de_Venta\bin\Debug\Punto_de_Venta.exe
+C:\Users\anoni\Punto_de_Venta - copia\Punto_de_Venta\bin\Debug\Punto_de_Venta.pdb
+C:\Users\anoni\Punto_de_Venta - copia\Punto_de_Venta\bin\Debug\MySql.Data.dll
+C:\Users\anoni\Punto_de_Venta - copia\Punto_de_Venta\obj\Debug\Market_Base.csprojAssemblyReference.cache
+C:\Users\anoni\Punto_de_Venta - copia\Punto_de_Venta\obj\Debug\Interop.MediaPlayer.dll
+C:\Users\anoni\Punto_de_Venta - copia\Punto_de_Venta\obj\Debug\Interop.WMPDXMLib.dll
+C:\Users\anoni\Punto_de_Venta - copia\Punto_de_Venta\obj\Debug\Interop.WMPLib.dll
+C:\Users\anoni\Punto_de_Venta - copia\Punto_de_Venta\obj\Debug\Market_Base.csproj.ResolveComReference.cache
+C:\Users\anoni\Punto_de_Venta - copia\Punto_de_Venta\obj\Debug\Punto_de_Venta.buscar_productos.resources
+C:\Users\anoni\Punto_de_Venta - copia\Punto_de_Venta\obj\Debug\Punto_de_Venta.Menu.resources
+C:\Users\anoni\Punto_de_Venta - copia\Punto_de_Venta\obj\Debug\Punto_de_Venta.acerca_de.resources
+C:\Users\anoni\Punto_de_Venta - copia\Punto_de_Venta\obj\Debug\Punto_de_Venta.clientes.resources
+C:\Users\anoni\Punto_de_Venta - copia\Punto_de_Venta\obj\Debug\Punto_de_Venta.compras.resources
+C:\Users\anoni\Punto_de_Venta - copia\Punto_de_Venta\obj\Debug\Punto_de_Venta.login.resources
+C:\Users\anoni\Punto_de_Venta - copia\Punto_de_Venta\obj\Debug\Punto_de_Venta.productos.resources
+C:\Users\anoni\Punto_de_Venta - copia\Punto_de_Venta\obj\Debug\Punto_de_Venta.splash.resources
+C:\Users\anoni\Punto_de_Venta - copia\Punto_de_Venta\obj\Debug\Punto_de_Venta.ventas.resources
+C:\Users\anoni\Punto_de_Venta - copia\Punto_de_Venta\obj\Debug\Punto_de_Venta.Properties.Resources.resources
+C:\Users\anoni\Punto_de_Venta - copia\Punto_de_Venta\obj\Debug\Market_Base.csproj.GenerateResource.cache
+C:\Users\anoni\Punto_de_Venta - copia\Punto_de_Venta\obj\Debug\Market_Base.csproj.CopyComplete
+C:\Users\anoni\Punto_de_Venta - copia\Punto_de_Venta\obj\Debug\Punto_de_Venta.exe
+C:\Users\anoni\Punto_de_Venta - copia\Punto_de_Venta\obj\Debug\Punto_de_Venta.pdb
+\\DARK-EVIL\Users\anoni\Market_Base_Ramon_Oneida\Punto_de_Venta\bin\Debug\Punto_de_Venta.exe.config
+\\DARK-EVIL\Users\anoni\Market_Base_Ramon_Oneida\Punto_de_Venta\obj\Debug\Interop.MediaPlayer.dll
+\\DARK-EVIL\Users\anoni\Market_Base_Ramon_Oneida\Punto_de_Venta\obj\Debug\Interop.WMPDXMLib.dll
+\\DARK-EVIL\Users\anoni\Market_Base_Ramon_Oneida\Punto_de_Venta\obj\Debug\Interop.WMPLib.dll
+\\DARK-EVIL\Users\anoni\Market_Base_Ramon_Oneida\Punto_de_Venta\obj\Debug\Market_Base.csproj.ResolveComReference.cache
+\\DARK-EVIL\Users\anoni\Market_Base_Ramon_Oneida\Punto_de_Venta\obj\Debug\Punto_de_Venta.exe
+\\DARK-EVIL\Users\anoni\Market_Base_Ramon_Oneida\Punto_de_Venta\obj\Debug\Punto_de_Venta.pdb
+\\DARK-EVIL\Users\anoni\Market_Base_Ramon_Oneida\Punto_de_Venta\bin\Debug\Punto_de_Venta.exe
+\\DARK-EVIL\Users\anoni\Market_Base_Ramon_Oneida\Punto_de_Venta\bin\Debug\Punto_de_Venta.pdb
+\\DARK-EVIL\Users\anoni\Market_Base_Ramon_Oneida\Punto_de_Venta\obj\Debug\Market_Base.csprojResolveAssemblyReference.cache
+\\DARK-EVIL\Users\anoni\Market_Base_Ramon_Oneida\Punto_de_Venta\obj\Debug\Punto_de_Venta.buscar_productos.resources
+\\DARK-EVIL\Users\anoni\Market_Base_Ramon_Oneida\Punto_de_Venta\obj\Debug\Punto_de_Venta.Menu.resources
+\\DARK-EVIL\Users\anoni\Market_Base_Ramon_Oneida\Punto_de_Venta\obj\Debug\Punto_de_Venta.acerca_de.resources
+\\DARK-EVIL\Users\anoni\Market_Base_Ramon_Oneida\Punto_de_Venta\obj\Debug\Punto_de_Venta.clientes.resources
+\\DARK-EVIL\Users\anoni\Market_Base_Ramon_Oneida\Punto_de_Venta\obj\Debug\Punto_de_Venta.compras.resources
+\\DARK-EVIL\Users\anoni\Market_Base_Ramon_Oneida\Punto_de_Venta\obj\Debug\Punto_de_Venta.login.resources
+\\DARK-EVIL\Users\anoni\Market_Base_Ramon_Oneida\Punto_de_Venta\obj\Debug\Punto_de_Venta.productos.resources
+\\DARK-EVIL\Users\anoni\Market_Base_Ramon_Oneida\Punto_de_Venta\obj\Debug\Punto_de_Venta.splash.resources
+\\DARK-EVIL\Users\anoni\Market_Base_Ramon_Oneida\Punto_de_Venta\obj\Debug\Punto_de_Venta.ventas.resources
+\\DARK-EVIL\Users\anoni\Market_Base_Ramon_Oneida\Punto_de_Venta\obj\Debug\Punto_de_Venta.Properties.Resources.resources
+\\DARK-EVIL\Users\anoni\Market_Base_Ramon_Oneida\Punto_de_Venta\obj\Debug\Market_Base.csproj.GenerateResource.Cache
+C:\Users\anoni\Market_Base_Ramon_Oneida\Punto_de_Venta\bin\Debug\Punto_de_Venta.exe.config
+C:\Users\anoni\Market_Base_Ramon_Oneida\Punto_de_Venta\bin\Debug\Punto_de_Venta.exe
+C:\Users\anoni\Market_Base_Ramon_Oneida\Punto_de_Venta\bin\Debug\Punto_de_Venta.pdb
+C:\Users\anoni\Market_Base_Ramon_Oneida\Punto_de_Venta\bin\Debug\MySql.Data.dll
+C:\Users\anoni\Market_Base_Ramon_Oneida\Punto_de_Venta\obj\Debug\Market_Base.csprojAssemblyReference.cache
+C:\Users\anoni\Market_Base_Ramon_Oneida\Punto_de_Venta\obj\Debug\Interop.MediaPlayer.dll
+C:\Users\anoni\Market_Base_Ramon_Oneida\Punto_de_Venta\obj\Debug\Interop.WMPDXMLib.dll
+C:\Users\anoni\Market_Base_Ramon_Oneida\Punto_de_Venta\obj\Debug\Interop.WMPLib.dll
+C:\Users\anoni\Market_Base_Ramon_Oneida\Punto_de_Venta\obj\Debug\Market_Base.csproj.ResolveComReference.cache
+C:\Users\anoni\Market_Base_Ramon_Oneida\Punto_de_Venta\obj\Debug\Punto_de_Venta.buscar_productos.resources
+C:\Users\anoni\Market_Base_Ramon_Oneida\Punto_de_Venta\obj\Debug\Punto_de_Venta.Menu.resources
+C:\Users\anoni\Market_Base_Ramon_Oneida\Punto_de_Venta\obj\Debug\Punto_de_Venta.acerca_de.resources
+C:\Users\anoni\Market_Base_Ramon_Oneida\Punto_de_Venta\obj\Debug\Punto_de_Venta.clientes.resources
+C:\Users\anoni\Market_Base_Ramon_Oneida\Punto_de_Venta\obj\Debug\Punto_de_Venta.compras.resources
+C:\Users\anoni\Market_Base_Ramon_Oneida\Punto_de_Venta\obj\Debug\Punto_de_Venta.login.resources
+C:\Users\anoni\Market_Base_Ramon_Oneida\Punto_de_Venta\obj\Debug\Punto_de_Venta.productos.resources
+C:\Users\anoni\Market_Base_Ramon_Oneida\Punto_de_Venta\obj\Debug\Punto_de_Venta.splash.resources
+C:\Users\anoni\Market_Base_Ramon_Oneida\Punto_de_Venta\obj\Debug\Punto_de_Venta.ventas.resources
+C:\Users\anoni\Market_Base_Ramon_Oneida\Punto_de_Venta\obj\Debug\Punto_de_Venta.Properties.Resources.resources
+C:\Users\anoni\Market_Base_Ramon_Oneida\Punto_de_Venta\obj\Debug\Market_Base.csproj.GenerateResource.cache
+C:\Users\anoni\Market_Base_Ramon_Oneida\Punto_de_Venta\obj\Debug\Market_Base.csproj.CopyComplete
+C:\Users\anoni\Market_Base_Ramon_Oneida\Punto_de_Venta\obj\Debug\Punto_de_Venta.exe
+C:\Users\anoni\Market_Base_Ramon_Oneida\Punto_de_Venta\obj\Debug\Punto_de_Venta.pdb
+\\DARK-EVIL\Users\anoni\Market_Base_Ramon_Oneida - copia\Punto_de_Venta\bin\Debug\Punto_de_Venta.exe.config
+\\DARK-EVIL\Users\anoni\Market_Base_Ramon_Oneida - copia\Punto_de_Venta\obj\Debug\Interop.MediaPlayer.dll
+\\DARK-EVIL\Users\anoni\Market_Base_Ramon_Oneida - copia\Punto_de_Venta\obj\Debug\Interop.WMPDXMLib.dll
+\\DARK-EVIL\Users\anoni\Market_Base_Ramon_Oneida - copia\Punto_de_Venta\obj\Debug\Interop.WMPLib.dll
+\\DARK-EVIL\Users\anoni\Market_Base_Ramon_Oneida - copia\Punto_de_Venta\obj\Debug\Market_Base.csproj.ResolveComReference.cache
+\\DARK-EVIL\Users\anoni\Market_Base_Ramon_Oneida - copia\Punto_de_Venta\obj\Debug\Punto_de_Venta.exe
+\\DARK-EVIL\Users\anoni\Market_Base_Ramon_Oneida - copia\Punto_de_Venta\obj\Debug\Punto_de_Venta.pdb
+\\DARK-EVIL\Users\anoni\Market_Base_Ramon_Oneida - copia\Punto_de_Venta\bin\Debug\Punto_de_Venta.exe
+\\DARK-EVIL\Users\anoni\Market_Base_Ramon_Oneida - copia\Punto_de_Venta\bin\Debug\Punto_de_Venta.pdb
+\\DARK-EVIL\Users\anoni\Market_Base_Ramon_Oneida - copia\Punto_de_Venta\obj\Debug\Market_Base.csprojResolveAssemblyReference.cache
+\\DARK-EVIL\Users\anoni\Market_Base_Ramon_Oneida - copia\Punto_de_Venta\obj\Debug\Punto_de_Venta.Menu.resources
+\\DARK-EVIL\Users\anoni\Market_Base_Ramon_Oneida - copia\Punto_de_Venta\obj\Debug\Punto_de_Venta.acerca_de.resources
+\\DARK-EVIL\Users\anoni\Market_Base_Ramon_Oneida - copia\Punto_de_Venta\obj\Debug\Punto_de_Venta.clientes.resources
+\\DARK-EVIL\Users\anoni\Market_Base_Ramon_Oneida - copia\Punto_de_Venta\obj\Debug\Punto_de_Venta.compras.resources
+\\DARK-EVIL\Users\anoni\Market_Base_Ramon_Oneida - copia\Punto_de_Venta\obj\Debug\Punto_de_Venta.login.resources
+\\DARK-EVIL\Users\anoni\Market_Base_Ramon_Oneida - copia\Punto_de_Venta\obj\Debug\Punto_de_Venta.productos.resources
+\\DARK-EVIL\Users\anoni\Market_Base_Ramon_Oneida - copia\Punto_de_Venta\obj\Debug\Punto_de_Venta.splash.resources
+\\DARK-EVIL\Users\anoni\Market_Base_Ramon_Oneida - copia\Punto_de_Venta\obj\Debug\Punto_de_Venta.ventas.resources
+\\DARK-EVIL\Users\anoni\Market_Base_Ramon_Oneida - copia\Punto_de_Venta\obj\Debug\Punto_de_Venta.Properties.Resources.resources
+\\DARK-EVIL\Users\anoni\Market_Base_Ramon_Oneida - copia\Punto_de_Venta\obj\Debug\Market_Base.csproj.GenerateResource.Cache
+C:\Users\anoni\Market_Base_Ramon_Oneida - copia\Punto_de_Venta\bin\Debug\Punto_de_Venta.exe.config
+C:\Users\anoni\Market_Base_Ramon_Oneida - copia\Punto_de_Venta\bin\Debug\Punto_de_Venta.exe
+C:\Users\anoni\Market_Base_Ramon_Oneida - copia\Punto_de_Venta\bin\Debug\Punto_de_Venta.pdb
+C:\Users\anoni\Market_Base_Ramon_Oneida - copia\Punto_de_Venta\bin\Debug\MySql.Data.dll
+C:\Users\anoni\Market_Base_Ramon_Oneida - copia\Punto_de_Venta\obj\Debug\Market_Base.csprojAssemblyReference.cache
+C:\Users\anoni\Market_Base_Ramon_Oneida - copia\Punto_de_Venta\obj\Debug\Interop.MediaPlayer.dll
+C:\Users\anoni\Market_Base_Ramon_Oneida - copia\Punto_de_Venta\obj\Debug\Interop.WMPDXMLib.dll
+C:\Users\anoni\Market_Base_Ramon_Oneida - copia\Punto_de_Venta\obj\Debug\Interop.WMPLib.dll
+C:\Users\anoni\Market_Base_Ramon_Oneida - copia\Punto_de_Venta\obj\Debug\Market_Base.csproj.ResolveComReference.cache
+C:\Users\anoni\Market_Base_Ramon_Oneida - copia\Punto_de_Venta\obj\Debug\Punto_de_Venta.Menu.resources
+C:\Users\anoni\Market_Base_Ramon_Oneida - copia\Punto_de_Venta\obj\Debug\Punto_de_Venta.acerca_de.resources
+C:\Users\anoni\Market_Base_Ramon_Oneida - copia\Punto_de_Venta\obj\Debug\Punto_de_Venta.clientes.resources
+C:\Users\anoni\Market_Base_Ramon_Oneida - copia\Punto_de_Venta\obj\Debug\Punto_de_Venta.compras.resources
+C:\Users\anoni\Market_Base_Ramon_Oneida - copia\Punto_de_Venta\obj\Debug\Punto_de_Venta.login.resources
+C:\Users\anoni\Market_Base_Ramon_Oneida - copia\Punto_de_Venta\obj\Debug\Punto_de_Venta.productos.resources
+C:\Users\anoni\Market_Base_Ramon_Oneida - copia\Punto_de_Venta\obj\Debug\Punto_de_Venta.splash.resources
+C:\Users\anoni\Market_Base_Ramon_Oneida - copia\Punto_de_Venta\obj\Debug\Punto_de_Venta.ventas.resources
+C:\Users\anoni\Market_Base_Ramon_Oneida - copia\Punto_de_Venta\obj\Debug\Punto_de_Venta.Properties.Resources.resources
+C:\Users\anoni\Market_Base_Ramon_Oneida - copia\Punto_de_Venta\obj\Debug\Market_Base.csproj.GenerateResource.cache
+C:\Users\anoni\Market_Base_Ramon_Oneida - copia\Punto_de_Venta\obj\Debug\Market_Base.csproj.CopyComplete
+C:\Users\anoni\Market_Base_Ramon_Oneida - copia\Punto_de_Venta\obj\Debug\Punto_de_Venta.exe
+C:\Users\anoni\Market_Base_Ramon_Oneida - copia\Punto_de_Venta\obj\Debug\Punto_de_Venta.pdb
+C:\Users\anoni\Market_Base_Ramon_Oneida -V1.3.1\Punto_de_Venta\bin\Debug\Punto_de_Venta.exe.config
+C:\Users\anoni\Market_Base_Ramon_Oneida -V1.3.1\Punto_de_Venta\bin\Debug\Punto_de_Venta.exe
+C:\Users\anoni\Market_Base_Ramon_Oneida -V1.3.1\Punto_de_Venta\bin\Debug\Punto_de_Venta.pdb
+C:\Users\anoni\Market_Base_Ramon_Oneida -V1.3.1\Punto_de_Venta\bin\Debug\MySql.Data.dll
+C:\Users\anoni\Market_Base_Ramon_Oneida -V1.3.1\Punto_de_Venta\obj\Debug\Market_Base.csprojAssemblyReference.cache
+C:\Users\anoni\Market_Base_Ramon_Oneida -V1.3.1\Punto_de_Venta\obj\Debug\Interop.MediaPlayer.dll
+C:\Users\anoni\Market_Base_Ramon_Oneida -V1.3.1\Punto_de_Venta\obj\Debug\Interop.WMPDXMLib.dll
+C:\Users\anoni\Market_Base_Ramon_Oneida -V1.3.1\Punto_de_Venta\obj\Debug\Interop.WMPLib.dll
+C:\Users\anoni\Market_Base_Ramon_Oneida -V1.3.1\Punto_de_Venta\obj\Debug\Market_Base.csproj.ResolveComReference.cache
+C:\Users\anoni\Market_Base_Ramon_Oneida -V1.3.1\Punto_de_Venta\obj\Debug\Punto_de_Venta.Menu.resources
+C:\Users\anoni\Market_Base_Ramon_Oneida -V1.3.1\Punto_de_Venta\obj\Debug\Punto_de_Venta.acerca_de.resources
+C:\Users\anoni\Market_Base_Ramon_Oneida -V1.3.1\Punto_de_Venta\obj\Debug\Punto_de_Venta.clientes.resources
+C:\Users\anoni\Market_Base_Ramon_Oneida -V1.3.1\Punto_de_Venta\obj\Debug\Punto_de_Venta.compras.resources
+C:\Users\anoni\Market_Base_Ramon_Oneida -V1.3.1\Punto_de_Venta\obj\Debug\Punto_de_Venta.login.resources
+C:\Users\anoni\Market_Base_Ramon_Oneida -V1.3.1\Punto_de_Venta\obj\Debug\Punto_de_Venta.productos.resources
+C:\Users\anoni\Market_Base_Ramon_Oneida -V1.3.1\Punto_de_Venta\obj\Debug\Punto_de_Venta.splash.resources
+C:\Users\anoni\Market_Base_Ramon_Oneida -V1.3.1\Punto_de_Venta\obj\Debug\Punto_de_Venta.ventas.resources
+C:\Users\anoni\Market_Base_Ramon_Oneida -V1.3.1\Punto_de_Venta\obj\Debug\Punto_de_Venta.Properties.Resources.resources
+C:\Users\anoni\Market_Base_Ramon_Oneida -V1.3.1\Punto_de_Venta\obj\Debug\Market_Base.csproj.GenerateResource.cache
+C:\Users\anoni\Market_Base_Ramon_Oneida -V1.3.1\Punto_de_Venta\obj\Debug\Market_Base.csproj.CopyComplete
+C:\Users\anoni\Market_Base_Ramon_Oneida -V1.3.1\Punto_de_Venta\obj\Debug\Punto_de_Venta.exe
+C:\Users\anoni\Market_Base_Ramon_Oneida -V1.3.1\Punto_de_Venta\obj\Debug\Punto_de_Venta.pdb
+\\DARK-EVIL\Users\anoni\Market_Base_Ramon_Oneida -v1.4.2\Punto_de_Venta\bin\Debug\Punto_de_Venta.exe.config
+\\DARK-EVIL\Users\anoni\Market_Base_Ramon_Oneida -v1.4.2\Punto_de_Venta\obj\Debug\Interop.MediaPlayer.dll
+\\DARK-EVIL\Users\anoni\Market_Base_Ramon_Oneida -v1.4.2\Punto_de_Venta\obj\Debug\Interop.WMPDXMLib.dll
+\\DARK-EVIL\Users\anoni\Market_Base_Ramon_Oneida -v1.4.2\Punto_de_Venta\obj\Debug\Interop.WMPLib.dll
+\\DARK-EVIL\Users\anoni\Market_Base_Ramon_Oneida -v1.4.2\Punto_de_Venta\obj\Debug\Market_Base.csproj.ResolveComReference.cache
+\\DARK-EVIL\Users\anoni\Market_Base_Ramon_Oneida -v1.4.2\Punto_de_Venta\obj\Debug\Punto_de_Venta.exe
+\\DARK-EVIL\Users\anoni\Market_Base_Ramon_Oneida -v1.4.2\Punto_de_Venta\obj\Debug\Punto_de_Venta.pdb
+\\DARK-EVIL\Users\anoni\Market_Base_Ramon_Oneida -v1.4.2\Punto_de_Venta\bin\Debug\Punto_de_Venta.exe
+\\DARK-EVIL\Users\anoni\Market_Base_Ramon_Oneida -v1.4.2\Punto_de_Venta\bin\Debug\Punto_de_Venta.pdb
+\\DARK-EVIL\Users\anoni\Market_Base_Ramon_Oneida -v1.4.2\Punto_de_Venta\obj\Debug\Market_Base.csprojResolveAssemblyReference.cache
+\\DARK-EVIL\Users\anoni\Market_Base_Ramon_Oneida -v1.4.2\Punto_de_Venta\obj\Debug\Punto_de_Venta.Menu.resources
+\\DARK-EVIL\Users\anoni\Market_Base_Ramon_Oneida -v1.4.2\Punto_de_Venta\obj\Debug\Punto_de_Venta.acerca_de.resources
+\\DARK-EVIL\Users\anoni\Market_Base_Ramon_Oneida -v1.4.2\Punto_de_Venta\obj\Debug\Punto_de_Venta.clientes.resources
+\\DARK-EVIL\Users\anoni\Market_Base_Ramon_Oneida -v1.4.2\Punto_de_Venta\obj\Debug\Punto_de_Venta.compras.resources
+\\DARK-EVIL\Users\anoni\Market_Base_Ramon_Oneida -v1.4.2\Punto_de_Venta\obj\Debug\Punto_de_Venta.login.resources
+\\DARK-EVIL\Users\anoni\Market_Base_Ramon_Oneida -v1.4.2\Punto_de_Venta\obj\Debug\Punto_de_Venta.productos.resources
+\\DARK-EVIL\Users\anoni\Market_Base_Ramon_Oneida -v1.4.2\Punto_de_Venta\obj\Debug\Punto_de_Venta.splash.resources
+\\DARK-EVIL\Users\anoni\Market_Base_Ramon_Oneida -v1.4.2\Punto_de_Venta\obj\Debug\Punto_de_Venta.ventas.resources
+\\DARK-EVIL\Users\anoni\Market_Base_Ramon_Oneida -v1.4.2\Punto_de_Venta\obj\Debug\Punto_de_Venta.Properties.Resources.resources
+\\DARK-EVIL\Users\anoni\Market_Base_Ramon_Oneida -v1.4.2\Punto_de_Venta\obj\Debug\Market_Base.csproj.GenerateResource.Cache
+\\DARK-EVIL\Users\anoni\Market_Base_Ramon_Oneida -v1.4.2\Punto_de_Venta\obj\Debug\Punto_de_Venta.Administracion.resources
+C:\Users\anoni\Market_Base_Ramon_Oneida -v1.4.3\Punto_de_Venta\bin\Debug\Punto_de_Venta.exe.config
+C:\Users\anoni\Market_Base_Ramon_Oneida -v1.4.3\Punto_de_Venta\bin\Debug\Punto_de_Venta.exe
+C:\Users\anoni\Market_Base_Ramon_Oneida -v1.4.3\Punto_de_Venta\bin\Debug\Punto_de_Venta.pdb
+C:\Users\anoni\Market_Base_Ramon_Oneida -v1.4.3\Punto_de_Venta\bin\Debug\MySql.Data.dll
+C:\Users\anoni\Market_Base_Ramon_Oneida -v1.4.3\Punto_de_Venta\obj\Debug\Market_Base.csprojAssemblyReference.cache
+C:\Users\anoni\Market_Base_Ramon_Oneida -v1.4.3\Punto_de_Venta\obj\Debug\Interop.MediaPlayer.dll
+C:\Users\anoni\Market_Base_Ramon_Oneida -v1.4.3\Punto_de_Venta\obj\Debug\Interop.WMPDXMLib.dll
+C:\Users\anoni\Market_Base_Ramon_Oneida -v1.4.3\Punto_de_Venta\obj\Debug\Interop.WMPLib.dll
+C:\Users\anoni\Market_Base_Ramon_Oneida -v1.4.3\Punto_de_Venta\obj\Debug\Market_Base.csproj.ResolveComReference.cache
+C:\Users\anoni\Market_Base_Ramon_Oneida -v1.4.3\Punto_de_Venta\obj\Debug\Punto_de_Venta.Administracion.resources
+C:\Users\anoni\Market_Base_Ramon_Oneida -v1.4.3\Punto_de_Venta\obj\Debug\Punto_de_Venta.Menu.resources
+C:\Users\anoni\Market_Base_Ramon_Oneida -v1.4.3\Punto_de_Venta\obj\Debug\Punto_de_Venta.acerca_de.resources
+C:\Users\anoni\Market_Base_Ramon_Oneida -v1.4.3\Punto_de_Venta\obj\Debug\Punto_de_Venta.clientes.resources
+C:\Users\anoni\Market_Base_Ramon_Oneida -v1.4.3\Punto_de_Venta\obj\Debug\Punto_de_Venta.compras.resources
+C:\Users\anoni\Market_Base_Ramon_Oneida -v1.4.3\Punto_de_Venta\obj\Debug\Punto_de_Venta.login.resources
+C:\Users\anoni\Market_Base_Ramon_Oneida -v1.4.3\Punto_de_Venta\obj\Debug\Punto_de_Venta.productos.resources
+C:\Users\anoni\Market_Base_Ramon_Oneida -v1.4.3\Punto_de_Venta\obj\Debug\Punto_de_Venta.splash.resources
+C:\Users\anoni\Market_Base_Ramon_Oneida -v1.4.3\Punto_de_Venta\obj\Debug\Punto_de_Venta.ventas.resources
+C:\Users\anoni\Market_Base_Ramon_Oneida -v1.4.3\Punto_de_Venta\obj\Debug\Punto_de_Venta.Properties.Resources.resources
+C:\Users\anoni\Market_Base_Ramon_Oneida -v1.4.3\Punto_de_Venta\obj\Debug\Market_Base.csproj.GenerateResource.cache
+C:\Users\anoni\Market_Base_Ramon_Oneida -v1.4.3\Punto_de_Venta\obj\Debug\Market_Base.csproj.CopyComplete
+C:\Users\anoni\Market_Base_Ramon_Oneida -v1.4.3\Punto_de_Venta\obj\Debug\Punto_de_Venta.exe
+C:\Users\anoni\Market_Base_Ramon_Oneida -v1.4.3\Punto_de_Venta\obj\Debug\Punto_de_Venta.pdb
+C:\Users\anoni\Market_Base_Ramon_Oneida -v1.4.3 - copia\Punto_de_Venta\bin\Debug\Punto_de_Venta.exe.config
+C:\Users\anoni\Market_Base_Ramon_Oneida -v1.4.3 - copia\Punto_de_Venta\bin\Debug\Punto_de_Venta.exe
+C:\Users\anoni\Market_Base_Ramon_Oneida -v1.4.3 - copia\Punto_de_Venta\bin\Debug\Punto_de_Venta.pdb
+C:\Users\anoni\Market_Base_Ramon_Oneida -v1.4.3 - copia\Punto_de_Venta\bin\Debug\MySql.Data.dll
+C:\Users\anoni\Market_Base_Ramon_Oneida -v1.4.3 - copia\Punto_de_Venta\obj\Debug\Market_Base.csprojAssemblyReference.cache
+C:\Users\anoni\Market_Base_Ramon_Oneida -v1.4.3 - copia\Punto_de_Venta\obj\Debug\Interop.MediaPlayer.dll
+C:\Users\anoni\Market_Base_Ramon_Oneida -v1.4.3 - copia\Punto_de_Venta\obj\Debug\Interop.WMPDXMLib.dll
+C:\Users\anoni\Market_Base_Ramon_Oneida -v1.4.3 - copia\Punto_de_Venta\obj\Debug\Interop.WMPLib.dll
+C:\Users\anoni\Market_Base_Ramon_Oneida -v1.4.3 - copia\Punto_de_Venta\obj\Debug\Market_Base.csproj.ResolveComReference.cache
+C:\Users\anoni\Market_Base_Ramon_Oneida -v1.4.3 - copia\Punto_de_Venta\obj\Debug\Punto_de_Venta.Administracion.resources
+C:\Users\anoni\Market_Base_Ramon_Oneida -v1.4.3 - copia\Punto_de_Venta\obj\Debug\Punto_de_Venta.Menu.resources
+C:\Users\anoni\Market_Base_Ramon_Oneida -v1.4.3 - copia\Punto_de_Venta\obj\Debug\Punto_de_Venta.acerca_de.resources
+C:\Users\anoni\Market_Base_Ramon_Oneida -v1.4.3 - copia\Punto_de_Venta\obj\Debug\Punto_de_Venta.clientes.resources
+C:\Users\anoni\Market_Base_Ramon_Oneida -v1.4.3 - copia\Punto_de_Venta\obj\Debug\Punto_de_Venta.compras.resources
+C:\Users\anoni\Market_Base_Ramon_Oneida -v1.4.3 - copia\Punto_de_Venta\obj\Debug\Punto_de_Venta.login.resources
+C:\Users\anoni\Market_Base_Ramon_Oneida -v1.4.3 - copia\Punto_de_Venta\obj\Debug\Punto_de_Venta.productos.resources
+C:\Users\anoni\Market_Base_Ramon_Oneida -v1.4.3 - copia\Punto_de_Venta\obj\Debug\Punto_de_Venta.splash.resources
+C:\Users\anoni\Market_Base_Ramon_Oneida -v1.4.3 - copia\Punto_de_Venta\obj\Debug\Punto_de_Venta.ventas.resources
+C:\Users\anoni\Market_Base_Ramon_Oneida -v1.4.3 - copia\Punto_de_Venta\obj\Debug\Punto_de_Venta.Properties.Resources.resources
+C:\Users\anoni\Market_Base_Ramon_Oneida -v1.4.3 - copia\Punto_de_Venta\obj\Debug\Market_Base.csproj.GenerateResource.cache
+C:\Users\anoni\Market_Base_Ramon_Oneida -v1.4.3 - copia\Punto_de_Venta\obj\Debug\Market_Base.csproj.CopyComplete
+C:\Users\anoni\Market_Base_Ramon_Oneida -v1.4.3 - copia\Punto_de_Venta\obj\Debug\Punto_de_Venta.exe
+C:\Users\anoni\Market_Base_Ramon_Oneida -v1.4.3 - copia\Punto_de_Venta\obj\Debug\Punto_de_Venta.pdb
+C:\Users\PC\OneDrive\Documentos\proyectos\VisualStudio\Proyecto PDV\Punto_de_Venta\bin\Debug\Punto_de_Venta.exe.config
+C:\Users\PC\OneDrive\Documentos\proyectos\VisualStudio\Proyecto PDV\Punto_de_Venta\bin\Debug\Punto_de_Venta.exe
+C:\Users\PC\OneDrive\Documentos\proyectos\VisualStudio\Proyecto PDV\Punto_de_Venta\bin\Debug\Punto_de_Venta.pdb
+C:\Users\PC\OneDrive\Documentos\proyectos\VisualStudio\Proyecto PDV\Punto_de_Venta\obj\Debug\Interop.MediaPlayer.dll
+C:\Users\PC\OneDrive\Documentos\proyectos\VisualStudio\Proyecto PDV\Punto_de_Venta\obj\Debug\Interop.WMPDXMLib.dll
+C:\Users\PC\OneDrive\Documentos\proyectos\VisualStudio\Proyecto PDV\Punto_de_Venta\obj\Debug\Interop.WMPLib.dll
+C:\Users\PC\OneDrive\Documentos\proyectos\VisualStudio\Proyecto PDV\Punto_de_Venta\obj\Debug\Market_Base.csproj.ResolveComReference.cache
+C:\Users\PC\OneDrive\Documentos\proyectos\VisualStudio\Proyecto PDV\Punto_de_Venta\obj\Debug\Punto_de_Venta.Administracion.resources
+C:\Users\PC\OneDrive\Documentos\proyectos\VisualStudio\Proyecto PDV\Punto_de_Venta\obj\Debug\Punto_de_Venta.Menu.resources
+C:\Users\PC\OneDrive\Documentos\proyectos\VisualStudio\Proyecto PDV\Punto_de_Venta\obj\Debug\Punto_de_Venta.acerca_de.resources
+C:\Users\PC\OneDrive\Documentos\proyectos\VisualStudio\Proyecto PDV\Punto_de_Venta\obj\Debug\Punto_de_Venta.clientes.resources
+C:\Users\PC\OneDrive\Documentos\proyectos\VisualStudio\Proyecto PDV\Punto_de_Venta\obj\Debug\Punto_de_Venta.compras.resources
+C:\Users\PC\OneDrive\Documentos\proyectos\VisualStudio\Proyecto PDV\Punto_de_Venta\obj\Debug\Punto_de_Venta.login.resources
+C:\Users\PC\OneDrive\Documentos\proyectos\VisualStudio\Proyecto PDV\Punto_de_Venta\obj\Debug\Punto_de_Venta.productos.resources
+C:\Users\PC\OneDrive\Documentos\proyectos\VisualStudio\Proyecto PDV\Punto_de_Venta\obj\Debug\Punto_de_Venta.splash.resources
+C:\Users\PC\OneDrive\Documentos\proyectos\VisualStudio\Proyecto PDV\Punto_de_Venta\obj\Debug\Punto_de_Venta.ventas.resources
+C:\Users\PC\OneDrive\Documentos\proyectos\VisualStudio\Proyecto PDV\Punto_de_Venta\obj\Debug\Punto_de_Venta.Properties.Resources.resources
+C:\Users\PC\OneDrive\Documentos\proyectos\VisualStudio\Proyecto PDV\Punto_de_Venta\obj\Debug\Market_Base.csproj.GenerateResource.cache
+C:\Users\PC\OneDrive\Documentos\proyectos\VisualStudio\Proyecto PDV\Punto_de_Venta\obj\Debug\Market_Base.csproj.CoreCompileInputs.cache
+C:\Users\PC\OneDrive\Documentos\proyectos\VisualStudio\Proyecto PDV\Punto_de_Venta\obj\Debug\Market_Base.csproj.CopyComplete
+C:\Users\PC\OneDrive\Documentos\proyectos\VisualStudio\Proyecto PDV\Punto_de_Venta\obj\Debug\Punto_de_Venta.exe
+C:\Users\PC\OneDrive\Documentos\proyectos\VisualStudio\Proyecto PDV\Punto_de_Venta\obj\Debug\Punto_de_Venta.pdb
+C:\Users\PC\OneDrive\Documentos\proyectos\VisualStudio\Proyecto PDV\Punto_de_Venta\obj\Debug\Market_Base.csproj.AssemblyReference.cache

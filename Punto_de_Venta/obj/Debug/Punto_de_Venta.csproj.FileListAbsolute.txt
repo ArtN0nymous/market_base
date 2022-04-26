@@ -1,0 +1,28 @@
+c:\users\anoni\onedrive\documentos\visual studio 2013\Projects\Punto_de_Venta\Punto_de_Venta\bin\Debug\Punto_de_Venta.exe.config
+c:\users\anoni\onedrive\documentos\visual studio 2013\Projects\Punto_de_Venta\Punto_de_Venta\bin\Debug\Punto_de_Venta.exe
+c:\users\anoni\onedrive\documentos\visual studio 2013\Projects\Punto_de_Venta\Punto_de_Venta\bin\Debug\Punto_de_Venta.pdb
+c:\users\anoni\onedrive\documentos\visual studio 2013\Projects\Punto_de_Venta\Punto_de_Venta\obj\Debug\Punto_de_Venta.csprojResolveAssemblyReference.cache
+c:\users\anoni\onedrive\documentos\visual studio 2013\Projects\Punto_de_Venta\Punto_de_Venta\obj\Debug\Punto_de_Venta.Properties.Resources.resources
+c:\users\anoni\onedrive\documentos\visual studio 2013\Projects\Punto_de_Venta\Punto_de_Venta\obj\Debug\Punto_de_Venta.csproj.GenerateResource.Cache
+c:\users\anoni\onedrive\documentos\visual studio 2013\Projects\Punto_de_Venta\Punto_de_Venta\obj\Debug\Punto_de_Venta.exe
+c:\users\anoni\onedrive\documentos\visual studio 2013\Projects\Punto_de_Venta\Punto_de_Venta\obj\Debug\Punto_de_Venta.pdb
+c:\users\anoni\onedrive\documentos\visual studio 2013\Projects\Punto_de_Venta\Punto_de_Venta\obj\Debug\Punto_de_Venta.compras.resources
+c:\users\anoni\onedrive\documentos\visual studio 2013\Projects\Punto_de_Venta\Punto_de_Venta\obj\Debug\Punto_de_Venta.productos.resources
+c:\users\anoni\onedrive\documentos\visual studio 2013\Projects\Punto_de_Venta\Punto_de_Venta\obj\Debug\Punto_de_Venta.ventas.resources
+C:\Users\anoni\onedrive\documentos\visual studio 2013\Projects\Punto_de_Venta\Punto_de_Venta\obj\Debug\Punto_de_Venta.acerca_de.resources
+C:\Users\anoni\onedrive\documentos\visual studio 2013\Projects\Punto_de_Venta\Punto_de_Venta\obj\Debug\Punto_de_Venta.splash.resources
+C:\Users\anoni\OneDrive\Documentos\Visual Studio 2013\Projects\Punto_de_Venta\Punto_de_Venta\obj\Debug\Punto_de_Venta.clientes.resources
+\\DARK-EVIL\Users\anoni\Punto_de_Venta\Punto_de_Venta\bin\Debug\Punto_de_Venta.exe.config
+\\DARK-EVIL\Users\anoni\Punto_de_Venta\Punto_de_Venta\obj\Debug\Punto_de_Venta.exe
+\\DARK-EVIL\Users\anoni\Punto_de_Venta\Punto_de_Venta\obj\Debug\Punto_de_Venta.pdb
+\\DARK-EVIL\Users\anoni\Punto_de_Venta\Punto_de_Venta\bin\Debug\Punto_de_Venta.exe
+\\DARK-EVIL\Users\anoni\Punto_de_Venta\Punto_de_Venta\bin\Debug\Punto_de_Venta.pdb
+\\DARK-EVIL\Users\anoni\Punto_de_Venta\Punto_de_Venta\obj\Debug\Punto_de_Venta.csprojResolveAssemblyReference.cache
+\\DARK-EVIL\Users\anoni\Punto_de_Venta\Punto_de_Venta\obj\Debug\Punto_de_Venta.acerca_de.resources
+\\DARK-EVIL\Users\anoni\Punto_de_Venta\Punto_de_Venta\obj\Debug\Punto_de_Venta.clientes.resources
+\\DARK-EVIL\Users\anoni\Punto_de_Venta\Punto_de_Venta\obj\Debug\Punto_de_Venta.compras.resources
+\\DARK-EVIL\Users\anoni\Punto_de_Venta\Punto_de_Venta\obj\Debug\Punto_de_Venta.productos.resources
+\\DARK-EVIL\Users\anoni\Punto_de_Venta\Punto_de_Venta\obj\Debug\Punto_de_Venta.splash.resources
+\\DARK-EVIL\Users\anoni\Punto_de_Venta\Punto_de_Venta\obj\Debug\Punto_de_Venta.ventas.resources
+\\DARK-EVIL\Users\anoni\Punto_de_Venta\Punto_de_Venta\obj\Debug\Punto_de_Venta.Properties.Resources.resources
+\\DARK-EVIL\Users\anoni\Punto_de_Venta\Punto_de_Venta\obj\Debug\Punto_de_Venta.csproj.GenerateResource.Cache
